@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+nav a{
+    color: black;
+    border-bottom: 5px solid black;
+    text-decoration: none;
+    font-size: 22px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+nav{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+main h1{
+    text-align: center;
+}
+.p{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    font-size: 24px;
+}
+.photo{
+    text-align: center;
+}
+.photo2{
+    border-left: 10px dotted black;
+    margin: 45px 45px 40px 45px;
+    padding-left: 3px;
+}
+footer{
+    background-color: black;
+}
+footer p{
+    font-size: 24px;
+    background-color: white;
+    padding: 10px 10px 10px 10px
+}
